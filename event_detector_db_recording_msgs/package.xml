@@ -4,7 +4,7 @@
 
   <name>event_detector_db_recording_msgs</name>
   <version>0.3.0</version>
-  <description>ROS interfaces for event_detector and its plugins</description>
+  <description>Interfaces for event_detector_db_recording</description>
   <license>TODO</license>
 
   <maintainer email="lennart.reiher@ika.rwth-aachen.de">Lennart Reiher</maintainer>
