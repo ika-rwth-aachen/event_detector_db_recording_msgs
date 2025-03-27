@@ -5,7 +5,7 @@
   <name>event_detector_db_recording_msgs</name>
   <version>1.0.0</version>
   <description>Interfaces for event_detector_db_recording</description>
-  <license>TODO</license>
+  <license>MIT</license>
 
   <maintainer email="lennart.reiher@rwth-aachen.de">Lennart Reiher</maintainer>
 
