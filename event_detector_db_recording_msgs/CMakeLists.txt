@@ -16,8 +16,8 @@ find_package(sensor_msgs REQUIRED)
 ament_export_dependencies(sensor_msgs)
 
 set(msg_files
-      "msg/ImageFile.msg"
-      "msg/PointCloudFile.msg"
+  "msg/ImageFile.msg"
+  "msg/PointCloudFile.msg"
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}
